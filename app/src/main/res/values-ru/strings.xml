@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Викторина</string>
+
+    <string name="action_reload">Обновить</string>
+    <string name="action_check">Проверить</string>
+    <string name="action_skip">Пропустить</string>
+    <string name="action_next">Следующий</string>
+
+    <string name="error_network_failure">Не удалось загрузить данные из сети.</string>
+    <string name="error_internal_fackup">Внутренняя ошибка приложения</string>
+
+    <string name="hint_answer">Введите ответ</string>
+    <string name="hint_try_again">Попробуйте еще раз. Первая буква \'%s\'</string>
+    <string name="hint_success_answer">Правильный ответ</string>
+
+    <string name="header_score">Баллов:</string>
+    <string name="header_error">Ошибка</string>
+    <string name="header_question">Вопрос:</string>
+    <string name="header_answer">Ответ:</string>
+</resources>

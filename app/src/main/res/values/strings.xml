@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">QuizApp</string>
+    <string name="app_name">Quiz</string>
+
+    <string name="action_reload">Reload</string>
+    <string name="action_check">Check</string>
+    <string name="action_skip">Skip</string>
+    <string name="action_next">Next</string>
+
+    <string name="error_network_failure">Can\'t load data from network</string>
+    <string name="error_internal_fackup">Internal error</string>
+
+    <string name="hint_answer">Enter answer</string>
+    <string name="hint_try_again">Try again! First letter is \'%s\'</string>
+    <string name="hint_success_answer">Right answer</string>
+
+    <string name="header_score">Score:</string>
+    <string name="header_error">Error</string>
+    <string name="header_question">Question:</string>
+    <string name="header_answer">Answer:</string>
 </resources>
